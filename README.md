@@ -1,6 +1,6 @@
-# ssssttttuuuuddddyyyy
+# 알고리즘 스터디
 
-try hard
+- 이것이 코딩테스트다 with 파이썬
 
-
-정보처리기사와 알고리즘 고군분투 ㄱ
+- 참고
+https://github.com/ndb796/python-for-coding-test
